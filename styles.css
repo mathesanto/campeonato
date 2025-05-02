@@ -129,3 +129,13 @@ footer p {
         white-space: nowrap;
     }
 }
+.emblema {
+    display: inline-block;
+    background-color: #ffeaa7;
+    color: #2d3436;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.75em; /* menor que o normal */
+    margin-top: 6px;
+    font-weight: 600;
+}
